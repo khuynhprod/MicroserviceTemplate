@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentApi", "MicroserviceTemplate\ShipmentApi.csproj", "{125D9993-5CC4-4380-ABF7-721493263FF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipmentApi", "ShipmentApi\ShipmentApi.csproj", "{125D9993-5CC4-4380-ABF7-721493263FF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceApi", "InvoiceApi\InvoiceApi.csproj", "{869AAF67-A0CA-42EA-9440-04AA366D7116}"
 EndProject
